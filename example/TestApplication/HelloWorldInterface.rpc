@@ -1,0 +1,13 @@
+application Test {
+    struct Key {
+        0 require string s;
+    };
+
+    struct Value {
+        0 require string s;
+    };
+
+    interface HelloWord {
+        int test(Key k, output Value v);
+    };
+};
