@@ -2,7 +2,7 @@
  @Author  : zhengdongqi
  @Email   : nickdecodes@163.com
  @Usage   :
- @FileName: rpcShiftC.c
+ @FileName: rpc_shift_nodejs.cpp
  @DateTime: 2022/5/15 16:16
  @SoftWare: CLion
 ************************************************************************/
@@ -11,13 +11,13 @@
 // Created by nickdecodes@163.com on 2022/5/15.
 //
 
-#ifndef OMSRPC_RPCSHIFTC_H
-#define OMSRPC_RPCSHIFTC_H
+#ifndef RPC_SHIFT_NODEJS_H
+#define RPC_SHIFT_NODEJS_H
 
 
-class RpcShiftC {
+class RpcShiftNodejs {
 
 };
 
 
-#endif //OMSRPC_RPCSHIFTC_H
+#endif //RPC_SHIFT_NODEJS_H

@@ -1,14 +1,23 @@
 /*************************************************************************
  @Author  : zhengdongqi
- @Email   : nickdecodes@163.com
+ @Email   : 
  @Usage   :
- @FileName: rpcShiftProtobuf.cpp
- @DateTime: 2022/5/15 16:16
+ @FileName: rpc_file.cpp
+ @DateTime: 2022/5/15 21:46
  @SoftWare: CLion
 ************************************************************************/
 
 //
-// Created by nickdecodes@163.com on 2022/5/15.
+// Created by 郑东琦 on 2022/5/15.
 //
 
-#include "rpcShiftProtobuf.h"
+#ifndef RPC_FILE_H
+#define RPC_FILE_H
+
+
+class RpcFile {
+
+};
+
+
+#endif //RPC_FILE_H

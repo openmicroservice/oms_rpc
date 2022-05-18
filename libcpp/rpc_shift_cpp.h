@@ -2,7 +2,7 @@
  @Author  : zhengdongqi
  @Email   : nickdecodes@163.com
  @Usage   :
- @FileName: rpcShiftCpp.h
+ @FileName: rpc_shift_cpp.h
  @DateTime: 2022/5/15 16:16
  @SoftWare: CLion
 ************************************************************************/
@@ -11,8 +11,8 @@
 // Created by nickdecodes@163.com on 2022/5/15.
 //
 
-#ifndef OMSRPC_RPCSHIFTCPP_H
-#define OMSRPC_RPCSHIFTCPP_H
+#ifndef RPC_SHIFT_CPP_H
+#define RPC_SHIFT_CPP_H
 
 #include "parse.h"
 
@@ -491,4 +491,4 @@ private:
 };
 }
 
-#endif //OMSRPC_RPCSHIFTCPP_H
+#endif //RPC_SHIFT_CPP_H

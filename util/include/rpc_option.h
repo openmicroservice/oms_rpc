@@ -1,14 +1,20 @@
 /*************************************************************************
  @Author  : zhengdongqi
- @Email   : nickdecodes@163.com
+ @Email   : 
  @Usage   :
- @FileName: rpcShiftPython.cpp
- @DateTime: 2022/5/15 16:16
+ @FileName: rpc_option.cpp
+ @DateTime: 2022/5/15 21:45
  @SoftWare: CLion
 ************************************************************************/
 
-//
-// Created by nickdecodes@163.com on 2022/5/15.
-//
 
-#include "rpcShiftPython.h"
+#ifndef RPC_OPTION_H
+#define RPC_OPTION_H
+
+
+class RpcOption {
+
+};
+
+
+#endif //RPC_OPTION_H

@@ -2,7 +2,7 @@
  @Author  : zhengdongqi
  @Email   : nickdecodes@163.com
  @Usage   :
- @FileName: rpcShiftNodejs.cpp
+ @FileName: rpc_shift_golang.h
  @DateTime: 2022/5/15 16:16
  @SoftWare: CLion
 ************************************************************************/
@@ -11,13 +11,13 @@
 // Created by nickdecodes@163.com on 2022/5/15.
 //
 
-#ifndef OMSRPC_RPCSHIFTNODEJS_H
-#define OMSRPC_RPCSHIFTNODEJS_H
+#ifndef RPC_SHIFT_GOLANG_H
+#define RPC_SHIFT_GOLANG_H
 
 
-class RpcShiftNodejs {
+class RpcShiftGolang {
 
 };
 
 
-#endif //OMSRPC_RPCSHIFTNODEJS_H
+#endif //RPC_SHIFT_GOLANG_H

@@ -1,23 +1,14 @@
 /*************************************************************************
  @Author  : zhengdongqi
- @Email   : 
+ @Email   : nickdecodes@163.com
  @Usage   :
- @FileName: rpcFile.cpp
- @DateTime: 2022/5/15 21:46
+ @FileName: rpc_shift_Nodejs.cpp
+ @DateTime: 2022/5/15 16:16
  @SoftWare: CLion
 ************************************************************************/
 
 //
-// Created by 郑东琦 on 2022/5/15.
+// Created by nickdecodes@163.com on 2022/5/15.
 //
 
-#ifndef OMSRPC_RPCFILE_H
-#define OMSRPC_RPCFILE_H
-
-
-class RpcFile {
-
-};
-
-
-#endif //OMSRPC_RPCFILE_H
+#include "rpc_shift_nodejs.h"

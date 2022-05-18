@@ -2,7 +2,7 @@
  @Author  : zhengdongqi
  @Email   : nickdecodes@163.com
  @Usage   :
- @FileName: rpcShiftJava.h
+ @FileName: rpc_shift_protobuf.h
  @DateTime: 2022/5/15 16:16
  @SoftWare: CLion
 ************************************************************************/
@@ -11,13 +11,13 @@
 // Created by nickdecodes@163.com on 2022/5/15.
 //
 
-#ifndef OMSRPC_RPCSHIFTJAVA_H
-#define OMSRPC_RPCSHIFTJAVA_H
+#ifndef RPC_SHIFT_PROTOBUF_H
+#define RPC_SHIFT_PROTOBUF_H
 
 
-class RpcShiftJava {
+class RpcShiftProtobuf {
 
 };
 
 
-#endif //OMSRPC_RPCSHIFTJAVA_H
+#endif //RPC_SHIFT_PROTOBUF_H
